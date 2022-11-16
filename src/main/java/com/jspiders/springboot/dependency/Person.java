@@ -4,7 +4,7 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class Person
-{
+{//
 	@Value("111")
 	private int id;
 
